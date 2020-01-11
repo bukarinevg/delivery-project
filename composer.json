@@ -1,0 +1,8 @@
+{
+    "name": "velik/delivery.com",
+    "autoload": {
+        "psr-4": {
+            "api\\": "api"
+        }
+    }
+}
